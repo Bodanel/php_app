@@ -3,5 +3,5 @@ echo 'PHP app is running on '.php_uname(n).'<br>with the virtual host '.$_SERVER
 echo 'IP '.$_SERVER['SERVER_ADDR'].'<br>';
 echo 'PHP version is: ' . phpversion().'<br><br>';
 echo 'Version exercise gitmage version 1';
-echo 'New feature 1';
+echo 'New feature 1 - new content';
 ?>
